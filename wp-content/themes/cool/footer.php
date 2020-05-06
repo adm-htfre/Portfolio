@@ -12,6 +12,7 @@
 									<div class="field">
 										<label for="email">Email</label>
 										<input type="email" name="email" id="email" />
+									</div>
 									<div class="field">
 										<label for="message">Message</label>
 										<textarea name="message" id="message" rows="4"></textarea>
